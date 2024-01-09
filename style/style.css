@@ -31,3 +31,41 @@
     font-weight: 900;
     line-height: 95px;
 }
+
+.offer{
+    width: 1240px;
+    margin:  0 auto; 
+    text-align: center;
+}
+.offer-title{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    /* line-height: normal; */
+}
+.offer-desc{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    /* line-height: normal; */
+}
+.offer-category{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    /* line-height: normal; */
+}
+.new-year-img{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
