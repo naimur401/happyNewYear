@@ -114,3 +114,54 @@
     border: 0;
     padding: 10px 15px;
 }
+
+.bonus-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    width: 100%;
+}
+.bonus-one, .bonus-two, .bonus-three{
+    width: 33%;
+}
+.bonus-two{
+    border:10px solid #F00;
+    padding: 15px;
+    border-radius: 100%;
+    text-align: center;
+    margin-inline-start: 40px;
+}
+.bonus-title{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.bonus-title2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.bonus-p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.year{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
