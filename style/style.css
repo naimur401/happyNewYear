@@ -181,3 +181,11 @@
     text-align: center;
     padding: 80px 212px;
 }
+
+.welcome{
+    background: url(../resources/Vectorrr.png);
+    height: 482px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
